@@ -1,4 +1,4 @@
-package main.java.com.heylink.druid;
+package com.heylink.druid;
 
 /*
  * introductions:面向接口编程
